@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CauaneGabriel
-- 👀 I’m interested in conhecer mais sobre a área de programação
-- 🌱 I’m currently learning um pouco sobre como programar jogos e o mundo da programação
-- 💞️ I’m looking to collaborate para um futuro melhor
-- 📫 Entre em contato comigo através do cauane.gabriel@escola.pr.gov.br
+- 👀 I’m interested in learn more about the programming area
+- 🌱 I’m currently learning a little about how to program games and the programming world
+- 💞️ I’m looking to collaborate for a better future
+- 📫 Get in touch with me via [email](cauane.gabriel@escola.pr.gov.br)
 
 <!---
 CauaneGabriel/CauaneGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
